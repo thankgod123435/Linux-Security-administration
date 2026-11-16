@@ -25,3 +25,9 @@ changed its permission to:
 ## Learning Outcome
 I learning how Linux manages users, groups, file permissions, and file ownership.
 **status:** Beginner practical exercise completed.
+## service Management
+- Used 'systemctl' to list running Linux services.
+- checked the status of the cron services.
+- Learned how Linux manages scheduled background tasks.
+## Learning Outcome
+Learned how to inspect running services and check their operational status.
