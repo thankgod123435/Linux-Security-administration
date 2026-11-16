@@ -47,4 +47,4 @@ This exercise covers the fundamentals of querying and filtering Linux system log
 *  **Severity filtering:** Learned how to isolate specific priority levels (`warning`, `err`) to cut through routine noise.
 *  **Output formatting:** Understood how to use flags like `--no-pager` and `-o short` for quick terminal readability and scripting.
 ## Evidence
-![Linux Error Log Analysis] (./linux-error-log-analysis.png)
+(linux-error-log-analysis.png)
