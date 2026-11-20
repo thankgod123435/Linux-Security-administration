@@ -48,7 +48,7 @@ This exercise covers the fundamentals of querying and filtering Linux system log
 *  **Output formatting:** Understood how to use flags like `--no-pager` and `-o short` for quick terminal readability and scripting.
 ## Evidence
 The following screenshots document my practical exercises:
--'linux-error-log-analysis.png'
+-`linux-error-log-analysis.png`
 - `linux-user-management.png`
 - `linux-file-permissions.png`
 - `linux-user-group-management.png`
