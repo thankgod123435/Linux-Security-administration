@@ -48,3 +48,22 @@ This exercise covers the fundamentals of querying and filtering Linux system log
 *  **Output formatting:** Understood how to use flags like `--no-pager` and `-o short` for quick terminal readability and scripting.
 ## Evidence
 (linux-error-log-analysis.png)
+## Additional Linux Security Exercises
+
+### 1. System Information
+- Used `cat /etc/os-release` to identify the Linux distribution.
+- Used `uname -r` to check the Linux kernel version.
+
+### 2. User and Group Management
+- Created a group named `securityteam`.
+- Created a user named `labuser`.
+- Added `labuser` to `securityteam`.
+- Verified group membership using `groups`.
+
+### 3. Account Security Checks
+- Used `id labuser` to inspect user identity and group information.
+- Used `getent passwd labuser` to inspect account information.
+- Used `passwd -S labuser` to check password status.
+
+### Additional Learning Outcome
+Practised Linux system identification, user and group administration, and basic account security verification.
